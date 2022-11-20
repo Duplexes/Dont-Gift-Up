@@ -1,0 +1,4 @@
+Flask~=2.2.2
+twilio~=7.15.3
+python-dotenv~=0.21.0
+deta~=1.1.0
